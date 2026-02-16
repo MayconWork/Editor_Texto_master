@@ -1,0 +1,12 @@
+teste.txt
+testtk.py
+textEditor.py
+utils\__pycache__
+main.spec
+ui\__pycache__
+logs
+core\
+build
+.venv/
+__pycache__/
+*.pyc
